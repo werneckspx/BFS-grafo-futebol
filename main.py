@@ -72,7 +72,7 @@ plt.title("Análise de Jogadores de Futebol")
 plt.show()
 print(G)
 
-starting_player = 'Erling Haaland'
+starting_player = 'Jogador a ser analisado'
 
 if starting_player in G.nodes():
 
